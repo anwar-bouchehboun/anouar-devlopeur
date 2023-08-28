@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Anwar Bouchehboun</h1>
 <h3 align="center">Enthusiastic front-end and Back-end developer from Morocco</h3>
-   <img src="IMG20190216154906.jpg" align="right"  alt="Coding" width="400">
+    <img src="IMG20190216154906.jpg" align="right"  alt="Coding" width="100" height="100" style="border-radius: 50%; object-fit: cover;" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anouar-devlopeur&label=Profile%20views&color=0e75b6&style=flat" alt="anouar-devlopeur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
